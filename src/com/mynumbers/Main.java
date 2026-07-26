@@ -8,6 +8,8 @@ package com.mynumbers;
  *  Main class.
  */
 public class Main {
+
+    // JVM entry point.
     public static void main(String[] args) {
 
         // Given number.
